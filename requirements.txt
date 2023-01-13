@@ -1,0 +1,13 @@
+basicsr>=1.4.2
+facexlib>=0.2.5
+lmdb
+numpy
+opencv-python==4.5.4.60
+pyyaml
+scipy
+tb-nightly
+torch>=1.7
+torchvision
+tqdm
+yapf
+moviepy==1.0.3
