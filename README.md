@@ -4,9 +4,9 @@
 
 |          原视频          |       超分辨率视频       |
 | :----------------------: | :----------------------: |
-| ![](images\1287_src.jpg) | ![](images\1287_tgt.jpg) |
-| ![](images\4155_src.jpg) | ![](images\4155_tgt.jpg) |
-| ![](images\5863_src.jpg) | ![](images\5863_tgt.jpg) |
+| ![](images/1287_src.jpg) | ![](images/1287_tgt.jpg) |
+| ![](images/4155_src.jpg) | ![](images/4155_tgt.jpg) |
+| ![](images/5863_src.jpg) | ![](images/5863_tgt.jpg) |
 
 ## 项目基础环境
 
